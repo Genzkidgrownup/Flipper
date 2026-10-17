@@ -29,7 +29,7 @@
 13. [2026-10-17 – Here in this session , I made the butterfly wings .When i first drew the sketch and extruded it completely looked bad and wasn't looking like a butterfly wings.](#2026-10-17-here-in-this-session-i-made-the-butterfly-wings-w)
 14. [2026-10-17 – ![Screenshot 2026-10-17 144210](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/7dd516fb2e1c95039d6f5366652eb868c2af12e2b8ac955a93eb1f4ffd1414e9.png)](#2026-10-17-screenshot-2026-10-17-144210httpshalflifehackclub)
 15. [2026-10-17 – Hi hackclub officials or reviewers ,](#2026-10-17-hi-hackclub-officials-or-reviewers)
-16. [2026-10-17 – Work session](#2026-10-17-work-session)
+16. [2026-10-17 – Hi hackclub members or reviewers , Here i added the 70cm metal barrette standoff holes and magnetic holes to hold the full structure and i searched the internet for the metal barrette simulated the co](#2026-10-17-hi-hackclub-members-or-reviewers-here-i-added-the)
 
 ## Design
 
@@ -309,8 +309,14 @@ and then a extruded the middle lid and i added standoff screws , i changed the M
 
 [Timelapse](https://lookout.hackclub.com/api/media/cf56cfd5-aa8b-48bb-90e4-9ef4744dd4b2/video.mp4)
 
-### 2026-10-17 – Work session
+### 2026-10-17 – Hi hackclub members or reviewers , Here i added the 70cm metal barrette standoff holes and magnetic holes to hold the full structure and i searched the internet for the metal barrette simulated the co
 
 **0.42h**
+
+Hi hackclub members or reviewers , Here i added the 70cm metal barrette standoff holes and magnetic holes to hold the full structure and i searched the internet for the metal barrette simulated the code to run the MG90s motor
+
+![Screenshot 2026-10-18 031647](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/c2f3a190d1c201ed1c54a2c621dae96f416bcc78337efb2fb99d3ce019a63b5c.png)
+
+![Screenshot 2026-10-18 032311](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/b7c0c8627997beb63067044ad7aee33ff75603ef4f2754e4ba26f5a76b8051bf.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/222cad2a-03a5-44e7-b727-2a7bad866e56/video.mp4)
