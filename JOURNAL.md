@@ -28,7 +28,7 @@
 12. [2026-10-15 – Hi hackclubers or reviewers,](#2026-10-15-hi-hackclubers-or-reviewers)
 13. [2026-10-17 – Here in this session , I made the butterfly wings .When i first drew the sketch and extruded it completely looked bad and wasn't looking like a butterfly wings.](#2026-10-17-here-in-this-session-i-made-the-butterfly-wings-w)
 14. [2026-10-17 – ![Screenshot 2026-10-17 144210](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/7dd516fb2e1c95039d6f5366652eb868c2af12e2b8ac955a93eb1f4ffd1414e9.png)](#2026-10-17-screenshot-2026-10-17-144210httpshalflifehackclub)
-15. [2026-10-17 – Work session](#2026-10-17-work-session)
+15. [2026-10-17 – Hi hackclub officials or reviewers ,](#2026-10-17-hi-hackclub-officials-or-reviewers)
 
 ## Design
 
@@ -284,9 +284,25 @@ And thats how i made the wings
 
 Hi hackclub officials or reviewers i faced the same problem where my lapse didn't got recorded it some parts while watching the previous journal's lapse you could understand that some parts gone cut , thats when the lapse app failed to record for my network isuse Iguess ,It would have been better if the outlook app ran offline.
 
-### 2026-10-17 – Work session
+### 2026-10-17 – Hi hackclub officials or reviewers ,
 
 **1.68h**
+
+Hi hackclub officials or reviewers ,
+Here i designed the wings of the flipper
+FIRST i followed a photo in pinterest
+but it didn't worked out so i tried to design own my own by extruding each part one by one and confirming it.
+and then a extruded the middle lid and i added standoff screws , i changed the MG90s standoff shell  so the wings can rotate easily without much oscillation so that it looks Smooth.
+
+![Screenshot 2026-10-17 150924](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/9ce98f3e92204c5fe01b5bc389ce35d989f6b7ea5a96d0ca9e31d7d4f27f1e90.png)
+
+![Screenshot 2026-10-18 005114](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/47130a1dd4175638b84a7c5616f38018c4f528a00e0a12f2cfd05d4e742666fc.png)
+
+![Screenshot 2026-10-18 005203](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/18f62de507d73c8d80393b049d66915945a3af549ebc8ae0e668d7dbb5f0ecd9.png)
+
+![Screenshot 2026-10-18 005524](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/33233feec01f4802891b5d58b587fe3c787db51df819cd9b6c945bcfd4400ec2.png)
+
+![Screenshot 2026-10-18 012752](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/daf6903cdbe2161bb90935c9ba7613465414e2992cbd1db3375734e78cf402e6.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/f5bc1a69-bd2d-4434-aff8-e762c9b5854b/video.mp4)
 
