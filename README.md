@@ -101,7 +101,7 @@ image" src="https://github.com/user-attachments/assets/6ebf5307-fc10-45e5-bdb0-9
 > + --> +5V  
 > -  ---->GND  
 
-**SMD decoupling capacitor(0805):**
+**SMD decoupling capacitor(0805) (100nf):**
 > + ---> +5V(nearest pin to ATtiny85)  
 > -  --->GND
 
