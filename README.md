@@ -111,6 +111,8 @@ image" src="https://github.com/user-attachments/assets/6ebf5307-fc10-45e5-bdb0-9
 
 
 ## 3D part ASSEMBLY:  
+>I have given 2 types of editable file , if one does not open up , you can always open the other one( Both has the same content )
+>
 >First place the bottom lid and then put Flipper board into the lid   
 >Then secure it with M3 screws into the bottom lid  
 >MAKE SURE TO CONNECT THE TP4056 module (BAT+ to battery positive and BAT- to battery negative)  
