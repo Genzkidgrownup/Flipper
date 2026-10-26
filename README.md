@@ -150,6 +150,9 @@ image" src="https://github.com/user-attachments/assets/6ebf5307-fc10-45e5-bdb0-9
 | **Estimated Total Shipping** | 1 | - | $5.00 | $5.00 | - |
 | **TOTAL ESTIMATED COST** |  |  |  | **$18.81** |  |
 
+## License
+This project is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial). 
+You are free to build and modify this board for personal use, but commercial production or selling of this project is strictly prohibited.
 
 
 
