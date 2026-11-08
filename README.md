@@ -136,7 +136,7 @@ image" src="https://github.com/user-attachments/assets/6ebf5307-fc10-45e5-bdb0-9
 | Item | Qty | Supplier | Cost / Item | Total Cost | Link |
 | --- | --- | --- | --- | --- | --- |
 | **ATtiny85** | 1 | quartzcomponents | $2.45 | $2.45 | [Link](https://quartzcomponents.com/products/attiny85-8-bit-avr-microcontroller) |
-| **PDT slide switch** | 4 | robu | $0.03 | $0.12 | [Link](https://robu.in/) |
+| **PDT slide switch** | 4 | robu | $0.03 | $0.12 | [Link](https://robu.in/product/1-month-warranty-691/) |
 | **Polarized capacitor 100uF** | 5 | Robu | $0.03 | $0.15 | [Link](https://robu.in/product/100-uf-35v-through-hole-electrolytic-capacitor-dip-pack-of-10/) |
 | **100nF 0805 SMD Ceramic Capacitor** | 20 | Robu | $0.01 | $0.20 | [Link](https://robu.in/product/100nf-0805-surface-mount-multilayer-ceramic-capacitor-pack-of-40/) |
 | **10K Ohm 1/8W 0805 Resistor** | 40 | Robu | $0.01 | $0.40 | [Link](https://robu.in/product/10k-ohm-1-8w-805-resistorreel-of-5000/) |
