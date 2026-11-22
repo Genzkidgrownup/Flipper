@@ -131,25 +131,6 @@ image" src="https://github.com/user-attachments/assets/6ebf5307-fc10-45e5-bdb0-9
 **AFTER FOLLOWING ALL THESE STEPS YOU ARE GOOD TO GO**
 
 
-## BOM:
-
-| Item | Qty | Supplier | Cost / Item | Total Cost | Link |
-| --- | --- | --- | --- | --- | --- |
-| **ATtiny85** | 1 | quartzcomponents | $2.45 | $2.45 | [Link](https://quartzcomponents.com/products/attiny85-8-bit-avr-microcontroller) |
-| **PDT slide switch** | 4 | robu | $0.03 | $0.12 | [Link](https://robu.in/product/1-month-warranty-691/) |
-| **Polarized capacitor 100uF** | 5 | Robu | $0.03 | $0.15 | [Link](https://robu.in/product/100-uf-35v-through-hole-electrolytic-capacitor-dip-pack-of-10/) |
-| **100nF 0805 SMD Ceramic Capacitor** | 20 | Robu | $0.01 | $0.20 | [Link](https://robu.in/product/100nf-0805-surface-mount-multilayer-ceramic-capacitor-pack-of-40/) |
-| **10K Ohm 1/8W 0805 Resistor** | 40 | Robu | $0.01 | $0.40 | [Link](https://robu.in/product/10k-ohm-1-8w-805-resistorreel-of-5000/) |
-| **Magnets (3x2mm N45 Grade)** | 1 | Flipkart | $2.50 | $2.50 | [Link](https://www.flipkart.com/magneticks-200-pcs-3x2mm-steel-magnets-nickle-plated-n45-grade-fridge-magnet-pack/p/itm792e5ca2eaeab) |
-| **EasyMech M3x40mm Bolt & Nut Set** | 2 | robu | $0.82 | $1.64 | [Link](https://robu.in/product/m315mm-nylon-screw-50-pcs/) |
-| **1x40 Pin 2.54mm Berg Strip Male Connector** | 2 | robu | $0.06 | $0.12 | [Link](https://robu.in/product/1x40-berg-strip-male-connector/) |
-| **Female Headers** | 1 | Robu | $0.40 | $0.40 | [Link](https://robu.in/product/2mm-pitch-female-berg-strip-40x1-2pcs/) |
-| **MT3608 Step-Up Boost Module** | 1 | Robu | $0.41 | $0.41 | [Link](https://robu.in/product/mt3608-2a-max-dc-dc-step-up-power-module-booster-power-module/) |
-| **3.7V LiPo Battery** | 2 | Amazon | $2.08 | $4.16 | [Link](https://www.google.com/search?q=https://www.amazon.in/gp/product/B0HC6RRYJL/) |
-| **Metal French Barrette Hair Clip** | 1 | Flipkart | $1.26 | $1.26 | [Link](https://www.flipkart.com/zft-metal-french-barrette-hair-clip-long-platinum-diy-accessories-accessory-set/p/itm5b7884b281e0a) |
-| **Estimated Total Shipping** | 1 | - | $5.00 | $5.00 | - |
-| **TOTAL ESTIMATED COST** |  |  |  | **$18.81** |  |
-
 ## License
 This project is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial). 
 You are free to build and modify this board for personal use, but commercial production or selling of this project is strictly prohibited.
